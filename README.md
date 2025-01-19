@@ -1,3 +1,15 @@
+<span style="color: red;">K</span>
+<span style="color: orange;">U</span>
+<span style="color: yellow;">N</span>
+<span style="color: green;">T</span>
+<span style="color: blue;">U</span>
+<span style="color: indigo;">L</span>
+<span style="color: violet;"> </span>
+<span style="color: red;">B</span>
+<span style="color: orange;">O</span>
+<span style="color: yellow;">T</span>
+
+
 # Update package
 pkg update && pkg upgrade
 
